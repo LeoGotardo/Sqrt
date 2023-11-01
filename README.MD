@@ -1,4 +1,4 @@
-# Quadratic Equation Solver - Documentation
+# ✓ Quadratic Equation Solver - Documentation
 
 ## Introduction
 
